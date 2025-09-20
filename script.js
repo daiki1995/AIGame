@@ -9,6 +9,7 @@ let urls = [
         url: 'https://www.youtube.com',
         description: '動画共有プラットフォーム'
     },
+    
     {
         title: 'GitHub',
         url: 'https://github.com',
