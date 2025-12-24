@@ -1,21 +1,22 @@
-let urls = [
-    {
-        title: 'Google',
-        url: 'https://www.google.com',
-        description: '世界最大の検索エンジン'
-    },
-    {
-        title: 'YouTube',
-        url: 'https://www.youtube.com',
-        description: '動画共有プラットフォーム'
-    },
-    
-    {
-        title: 'GitHub',
-        url: 'https://github.com',
-        description: 'コード管理とコラボレーションのプラットフォーム'
+let urls = [];
+
+// JSONファイルからURLデータを読み込む
+async function loadUrls() {
+    try {
+        const response = await fetch('./urls.json');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        urls = await response.json();
+        displayUrls();
+    } catch (error) {
+        console.error('URLデータの読み込みに失敗しました:', error);
+        const listElement = document.getElementById('urlList');
+        if (listElement) {
+            listElement.innerHTML = '<div class="empty">URLデータの読み込みに失敗しました。ローカルサーバーを使用してください。</div>';
+        }
     }
-];
+}
 
 function displayUrls() {
     const listElement = document.getElementById('urlList');
@@ -34,5 +35,5 @@ function displayUrls() {
     `).join('');
 }
 
-// ページ読み込み時にURLを表示
-displayUrls();
+// ページ読み込み時にURLを読み込んで表示
+loadUrls();
