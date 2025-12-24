@@ -13,5 +13,20 @@
         "title": "聖夜のぼっち・ラン",
         "url": "https://daiki1995.github.io/SeinaruyorunoBottiRun/",
         "description": "クリスマスの夜1人ひた走るサラリーマンのゲーム"
+    },
+    {
+        "title": "鉄球ドッキリ",
+        "url": "https://daiki1995.github.io/tekyuDokkiri/",
+        "description": "鉄球をぶつけるドッキリゲーム"
+    },
+    {
+        "title": "落とし穴ゲーム",
+        "url": "https://daiki1995.github.io/otoshiAnaBattle/",
+        "description": "落とし穴を仕掛けるゲーム"
+    },
+    {
+        "title": "ご飯食べ食べアドベンチャー",
+        "url": "https://daiki1995.github.io/gohanTabeTabeAdv/",
+        "description": "まんぷくを利用して冒険するゲーム"
     }
 ]
