@@ -20,7 +20,7 @@
         "description": "鉄球をぶつけるドッキリゲーム"
     },
     {
-        "title": "落とし穴ゲーム",
+        "title": "トラップマスター",
         "url": "https://daiki1995.github.io/otoshiAnaBattle/",
         "description": "落とし穴を仕掛けるゲーム"
     },
@@ -28,5 +28,85 @@
         "title": "ご飯食べ食べアドベンチャー",
         "url": "https://daiki1995.github.io/gohanTabeTabeAdv/",
         "description": "まんぷくを利用して冒険するゲーム"
+    },
+    {
+        "title": "砲台シューティング",
+        "url": "https://daiki1995.github.io/taihouDon/",
+        "description": "大砲を駆使する的当てゲーム"
+    },
+    {
+        "title": "激熱！レスバ！！",
+        "url": "https://daiki1995.github.io/gekinetsuResuba/",
+        "description": "ターン制レスバゲーム"
+    },
+    {
+        "title": "ガラスの天井ゲーム",
+        "url": "https://daiki1995.github.io/garasuNoTenjo/",
+        "description": "多くのミニゲームをクリアしてガラスの天井を突き破れ"
+    },
+    {
+        "title": "フリフリ客引きメイド",
+        "url": "https://daiki1995.github.io/furifuriKyakuhikimeido/",
+        "description": "メイドカフェの客引きをするゲーム"
+    },
+    {
+        "title": "爆走！こたつ号",
+        "url": "https://daiki1995.github.io/bakusouKotatsuGO/",
+        "description": "こたつに乗って爆走するゲーム"
+    },
+    {
+        "title": "GIRIーGIRIーSTOP",
+        "url": "https://daiki1995.github.io/giriGiriStop/",
+        "description": "危険な遊びでストレス解消 あなたは宇宙空間で生き延びられるか？"
+    },
+    {
+        "title": "シールドマスター",
+        "url": "https://daiki1995.github.io/ShieldMaster/",
+        "description": "シールドの使い手となりステージを攻略せよ"
+    },
+    {
+        "title": "マタドールマスター",
+        "url": "https://daiki1995.github.io/The_Matador_Masters/",
+        "description": "闘牛士になり、牛を制せよ"
+    },
+    {
+        "title": "すり足チャンバラ",
+        "url": "https://daiki1995.github.io/suriAshiChanbara/",
+        "description": "隙のない最強の歩行すり足を生かして戦うチャンバラゲーム"
+    },
+    {
+        "title": "走るな、漏れる",
+        "url": "https://daiki1995.github.io/dontRunWet/",
+        "description": "奇妙な旅館に泊まったあなたは、夜尿意を催す。ホラーサバイバル連打ゲーム"
+    },
+    {
+        "title": "Pee Dash",
+        "url": "https://daiki1995.github.io/peeDash/",
+        "description": "トイレを我慢しながらトイレを目指すゲーム"
+    },
+    {
+        "title": "TimeE",
+        "url": "https://daiki1995.github.io/TimE/",
+        "description": "宇宙船に迷い込んだ高校生のカードサバイバルゲーム"
+    },
+    {
+        "title": "kumasan",
+        "url": "https://daiki1995.github.io/kumasan/",
+        "description": "大魔王　熊太郎から逃げるりんごゲーム"
+    },
+    {
+        "title": "ミラクルジャンプ",
+        "url": "https://daiki1995.github.io/mirachleJump/",
+        "description": "賞金をかけてミラクルジャンプするゲーム"
+    },
+    {
+        "title": "パニックパズル",
+        "url": "https://daiki1995.github.io/panicpazzle/",
+        "description": "危機的状況を打破するパズルゲーム"
+    },
+    {
+        "title": "ライオンショップ",
+        "url": "https://daiki1995.github.io/lionShop/",
+        "description": "ライオンが徘徊するコンビニで品出しをするゲーム"
     }
 ]
