@@ -1,5 +1,20 @@
 [
     {
+        "title": "ソーダシェイク！",
+        "url": "https://daiki1995.github.io/shakeSoda/",
+        "description": "炭酸を飛ばして最高記録を目指せ"
+    },
+    {
+        "title": "Gravity Switch",
+        "url": "https://daiki1995.github.io/GravitySwitch/",
+        "description": "重力を操るパズルゲーム"
+    },
+    {
+        "title": "対魔戦術　こぶし",
+        "url": "https://daiki1995.github.io/MagicBattleManKobushi/",
+        "description": "魔法を使う敵に拳で立ち向かえ！"
+    },
+    {
         "title": "Echo Walker",
         "url": "https://daiki1995.github.io/echoWalker/",
         "description": "情報社会を生き抜くゲーム"
